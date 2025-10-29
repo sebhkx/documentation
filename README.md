@@ -1,1 +1,1 @@
-# boilerplate-repo
+# snippets & documentations
